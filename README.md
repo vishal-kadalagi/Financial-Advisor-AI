@@ -25,7 +25,7 @@ A Flask-based web application that combines PDF text extraction with AI-powered 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vishal-kadalagi/Financial-Advisor-AI.git
    cd nlp_final
    ```
 
