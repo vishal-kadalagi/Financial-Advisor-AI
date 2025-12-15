@@ -1,6 +1,6 @@
-# Loan Analysis & Financial Advisory System
+# Financial Advisor AI
 
-An intelligent web application that combines PDF document analysis with AI-powered financial advisory services. Users can upload loan agreements for text extraction and ask personalized financial questions to an AI advisor.
+A Flask-based web application that combines PDF text extraction with AI-powered financial advice using Google's Gemini model and multilingual translation capabilities for personalized financial guidance.
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/flask-v3.0.0-blue)
